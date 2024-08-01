@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/nishil-3/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/nishil-3/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/nishil-3/LeetCode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/nishil-3/LeetCode/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishil-3/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -118,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nishil-3/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/nishil-3/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
