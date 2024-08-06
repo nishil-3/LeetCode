@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nishil-3/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nishil-3/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nishil-3/LeetCode/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/nishil-3/LeetCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/nishil-3/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/nishil-3/LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nishil-3/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/nishil-3/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/nishil-3/LeetCode/tree/master/0258-add-digits) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/nishil-3/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
