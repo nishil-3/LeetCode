@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nishil-3/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nishil-3/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nishil-3/LeetCode/tree/master/0162-find-peak-element) |
+| [0367-valid-perfect-square](https://github.com/nishil-3/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nishil-3/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/nishil-3/LeetCode/tree/master/0792-binary-search) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nishil-3/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nishil-3/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nishil-3/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nishil-3/LeetCode/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/nishil-3/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/nishil-3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/nishil-3/LeetCode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/nishil-3/LeetCode/tree/master/0728-self-dividing-numbers) |
