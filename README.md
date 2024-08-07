@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/nishil-3/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/nishil-3/LeetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/nishil-3/LeetCode/tree/master/0890-lemonade-change) |
+| [0941-sort-array-by-parity](https://github.com/nishil-3/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nishil-3/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nishil-3/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishil-3/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/nishil-3/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/nishil-3/LeetCode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/nishil-3/LeetCode/tree/master/0455-assign-cookies) |
+| [0941-sort-array-by-parity](https://github.com/nishil-3/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishil-3/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String Matching
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nishil-3/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/nishil-3/LeetCode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/nishil-3/LeetCode/tree/master/0455-assign-cookies) |
+| [0941-sort-array-by-parity](https://github.com/nishil-3/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
