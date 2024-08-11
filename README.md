@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishil-3/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/nishil-3/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nishil-3/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nishil-3/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nishil-3/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/nishil-3/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishil-3/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/nishil-3/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/nishil-3/LeetCode/tree/master/0075-sort-colors) |
