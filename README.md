@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nishil-3/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/nishil-3/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/nishil-3/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/nishil-3/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/nishil-3/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/nishil-3/LeetCode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nishil-3/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nishil-3/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nishil-3/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nishil-3/LeetCode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/nishil-3/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/nishil-3/LeetCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/nishil-3/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/nishil-3/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nishil-3/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/nishil-3/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nishil-3/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/nishil-3/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/nishil-3/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/nishil-3/LeetCode/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/nishil-3/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nishil-3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/nishil-3/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nishil-3/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/nishil-3/LeetCode/tree/master/0268-missing-number) |
 | [1217-relative-sort-array](https://github.com/nishil-3/LeetCode/tree/master/1217-relative-sort-array) |
 ## Sliding Window
 |  |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/nishil-3/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/nishil-3/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/nishil-3/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nishil-3/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nishil-3/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nishil-3/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/nishil-3/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/nishil-3/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/nishil-3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/nishil-3/LeetCode/tree/master/0441-arranging-coins) |
