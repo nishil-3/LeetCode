@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/nishil-3/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/nishil-3/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nishil-3/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nishil-3/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/nishil-3/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/nishil-3/LeetCode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nishil-3/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nishil-3/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/nishil-3/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/nishil-3/LeetCode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/nishil-3/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/nishil-3/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/nishil-3/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/nishil-3/LeetCode/tree/master/0441-arranging-coins) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishil-3/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/nishil-3/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/nishil-3/LeetCode/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/nishil-3/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/nishil-3/LeetCode/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/nishil-3/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishil-3/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nishil-3/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/nishil-3/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nishil-3/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nishil-3/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
