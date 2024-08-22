@@ -5,9 +5,8 @@ public:
         int n = nums.size();
         for(int i=0;i<n;i++)
         {
-            int sum = nums[i];
-            if(sum==k) ans ++;
-            for(int j=i+1;j<n;j++)
+         int sum =0;
+            for(int j=i;j<n;j++)
             {
                 sum+=nums[j];
 
