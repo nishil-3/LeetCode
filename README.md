@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/nishil-3/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/nishil-3/LeetCode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/nishil-3/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [2630-alternating-digit-sum](https://github.com/nishil-3/LeetCode/tree/master/2630-alternating-digit-sum) |
 ## Recursion
 |  |
 | ------- |
