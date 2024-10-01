@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishil-3/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/nishil-3/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/nishil-3/LeetCode/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/nishil-3/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/nishil-3/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/nishil-3/LeetCode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/nishil-3/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/nishil-3/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/nishil-3/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/nishil-3/LeetCode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/nishil-3/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -231,6 +233,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nishil-3/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nishil-3/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/nishil-3/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/nishil-3/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nishil-3/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/nishil-3/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/nishil-3/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
