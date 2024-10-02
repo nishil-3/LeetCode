@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nishil-3/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nishil-3/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/nishil-3/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/nishil-3/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nishil-3/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nishil-3/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishil-3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nishil-3/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/nishil-3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/nishil-3/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/nishil-3/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/nishil-3/LeetCode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/nishil-3/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/nishil-3/LeetCode/tree/master/0231-power-of-two) |
