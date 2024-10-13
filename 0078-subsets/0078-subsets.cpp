@@ -9,11 +9,13 @@ public:
         }
         // exculde and include
 
-        solve(nums, output, index +1, ans);
-
         int ele = nums[index];
 
         output.push_back(ele);
+        solve(nums, output, index +1, ans);
+
+        output.pop_back();
+
      
 
         solve(nums, output, index + 1, ans);
