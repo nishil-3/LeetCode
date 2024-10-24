@@ -16,17 +16,16 @@ int heightt(TreeNode* root)
     if (root == nullptr) return 0;
     int left = heightt(root-> left );
     if (left == -1) return -1;
-    int right = heightt(root-> right );
-    if (right ==-1) return -1;
+    int right = heightt(root-> right);
+    if (right == -1) return -1;
+    if (abs(left-right ) > 1) return -1;
 
-    if (abs(left-right)>1) return -1;
+    return 1+max(left, right);
 
-    return max(left,right) +1;
-    
 }
     bool isBalanced(TreeNode* root) {
-        if (heightt (root)==-1) return false ;
 
+        if (heightt (root) == -1) return false ;
         return true ;
         
     }
