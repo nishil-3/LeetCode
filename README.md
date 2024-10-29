@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nishil-3/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nishil-3/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/nishil-3/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/nishil-3/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/nishil-3/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/nishil-3/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nishil-3/LeetCode/tree/master/0075-sort-colors) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nishil-3/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/nishil-3/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nishil-3/LeetCode/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishil-3/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/nishil-3/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/nishil-3/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nishil-3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/nishil-3/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
