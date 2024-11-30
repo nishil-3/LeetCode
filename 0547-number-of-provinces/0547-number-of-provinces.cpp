@@ -1,7 +1,7 @@
 class Solution {
 public:
 void dfs (int i,vector<vector<int>> & adj,vector<int> &vis)
-{if (vis[i]) return;
+{
     vis[i]=1;
     for(auto it : adj[i])
     {
