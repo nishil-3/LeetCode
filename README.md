@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/nishil-3/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/nishil-3/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/nishil-3/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/nishil-3/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/nishil-3/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/nishil-3/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nishil-3/LeetCode/tree/master/0258-add-digits) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nishil-3/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/nishil-3/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nishil-3/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/nishil-3/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishil-3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nishil-3/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Divide and Conquer
@@ -440,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/nishil-3/LeetCode/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/nishil-3/LeetCode/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nishil-3/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nishil-3/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
