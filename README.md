@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nishil-3/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nishil-3/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nishil-3/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/nishil-3/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/nishil-3/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/nishil-3/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nishil-3/LeetCode/tree/master/0735-asteroid-collision) |
@@ -454,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nishil-3/LeetCode/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/nishil-3/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
