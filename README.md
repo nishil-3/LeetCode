@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/nishil-3/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/nishil-3/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0966-binary-subarrays-with-sum](https://github.com/nishil-3/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1036-rotting-oranges](https://github.com/nishil-3/LeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/nishil-3/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/nishil-3/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1217-relative-sort-array](https://github.com/nishil-3/LeetCode/tree/master/1217-relative-sort-array) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/nishil-3/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/nishil-3/LeetCode/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nishil-3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/nishil-3/LeetCode/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nishil-3/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nishil-3/LeetCode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/nishil-3/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/nishil-3/LeetCode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/nishil-3/LeetCode/tree/master/1036-rotting-oranges) |
 ## Monotonic Stack
 |  |
 | ------- |
