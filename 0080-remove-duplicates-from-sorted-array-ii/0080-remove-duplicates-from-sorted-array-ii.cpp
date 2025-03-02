@@ -1,18 +1,21 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        int k =2;
-        int n =nums.size();
-        if (n <= 2) return nums.size();
+        unordered_map<int,int> mpp;
+        int j =0;
 
-        for(int i =2;i<n;i++)
+        for(int i =0;i<nums.size();i++)
         {
-            if (nums[i]!=nums[k-2])
+            if (mpp[nums[i]]<2)
             {
-                nums[k]=nums[i];
-                k++;
+                nums[j]=nums[i];
+                j++;
+                mpp[nums[i]]++;
             }
+
         }
-        return k;
+        return j;
+        
+        
     }
 };
