@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nishil-3/LeetCode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/nishil-3/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nishil-3/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/nishil-3/LeetCode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/nishil-3/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/nishil-3/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/nishil-3/LeetCode/tree/master/0455-assign-cookies) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nishil-3/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nishil-3/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nishil-3/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/nishil-3/LeetCode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/nishil-3/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/nishil-3/LeetCode/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/nishil-3/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/nishil-3/LeetCode/tree/master/0274-h-index) |
 | [1217-relative-sort-array](https://github.com/nishil-3/LeetCode/tree/master/1217-relative-sort-array) |
 ## Union Find
 |  |
