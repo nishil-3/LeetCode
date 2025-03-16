@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nishil-3/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/nishil-3/LeetCode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/nishil-3/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/nishil-3/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/nishil-3/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/nishil-3/LeetCode/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/nishil-3/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nishil-3/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/nishil-3/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/nishil-3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/nishil-3/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/nishil-3/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/nishil-3/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/nishil-3/LeetCode/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/nishil-3/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
