@@ -8,35 +8,16 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
-int leng(ListNode* head) {
-    int cnt = 0;
-
-    ListNode * temp = head;
-    while (temp != NULL) {
-        temp = temp->next;
-        cnt++;
-    }
-    return cnt;
-}
-
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-
-        int length = leng(head);
-
-        ListNode* node1 = head;
-        int cnt = 0;
-  
-            length = ((length / 2));
-    
-
-        while (cnt < length) {
-            node1 = node1->next;
-            cnt++;
-
+         ListNode* slow = head;
+        ListNode* fast = head;
+        while (fast != nullptr && fast ->next != nullptr)
+        {
+            slow = slow -> next ;
+            fast = fast -> next-> next ;
         }
-        return node1;
+        return slow ;
     }
 };
