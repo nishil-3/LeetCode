@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/nishil-3/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nishil-3/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nishil-3/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nishil-3/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nishil-3/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishil-3/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3541-report-spam-message](https://github.com/nishil-3/LeetCode/tree/master/3541-report-spam-message) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/nishil-3/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/nishil-3/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nishil-3/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nishil-3/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nishil-3/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## String
 |  |
