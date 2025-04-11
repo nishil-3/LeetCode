@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/nishil-3/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1610-xor-operation-in-an-array](https://github.com/nishil-3/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2630-alternating-digit-sum](https://github.com/nishil-3/LeetCode/tree/master/2630-alternating-digit-sum) |
+| [2998-count-symmetric-integers](https://github.com/nishil-3/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3817-maximum-containers-on-a-ship](https://github.com/nishil-3/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 ## Recursion
 |  |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nishil-3/LeetCode/tree/master/0204-count-primes) |
+| [2998-count-symmetric-integers](https://github.com/nishil-3/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
 |  |
 | ------- |
