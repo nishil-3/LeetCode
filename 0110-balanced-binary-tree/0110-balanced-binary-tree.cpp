@@ -6,27 +6,24 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 public:
-int heightt(TreeNode* root)
-{
-    if (root == nullptr) return 0;
-    int left = heightt(root-> left );
-    if (left == -1) return -1;
-    int right = heightt(root-> right);
-    if (right == -1) return -1;
-    if (abs(left-right ) > 1) return -1;
+    int solve(TreeNode* node, int& bt) {
+        if (node == nullptr)
+            return 0;
 
-    return 1+max(left, right);
-
-}
+        int left = solve(node->left, bt);
+        int right = solve(node->right, bt);
+        bt = max(bt, abs(left - right));
+        return 1 + max(left, right);
+    }
     bool isBalanced(TreeNode* root) {
-
-        if (heightt (root) == -1) return false ;
-        return true ;
-        
+        int isBt = 0;
+        solve(root, isBt);
+        return isBt <= 1;
     }
 };
