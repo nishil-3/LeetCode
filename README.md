@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/nishil-3/LeetCode/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/nishil-3/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nishil-3/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/nishil-3/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nishil-3/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nishil-3/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nishil-3/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/nishil-3/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/nishil-3/LeetCode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/nishil-3/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/nishil-3/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1610-xor-operation-in-an-array](https://github.com/nishil-3/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2630-alternating-digit-sum](https://github.com/nishil-3/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2998-count-symmetric-integers](https://github.com/nishil-3/LeetCode/tree/master/2998-count-symmetric-integers) |
