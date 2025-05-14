@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/nishil-3/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1217-relative-sort-array](https://github.com/nishil-3/LeetCode/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/nishil-3/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1299-k-concatenation-maximum-sum](https://github.com/nishil-3/LeetCode/tree/master/1299-k-concatenation-maximum-sum) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nishil-3/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nishil-3/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nishil-3/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/nishil-3/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/nishil-3/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/nishil-3/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [1299-k-concatenation-maximum-sum](https://github.com/nishil-3/LeetCode/tree/master/1299-k-concatenation-maximum-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
