@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3468-find-the-encrypted-string](https://github.com/nishil-3/LeetCode/tree/master/3468-find-the-encrypted-string) |
 | [3541-report-spam-message](https://github.com/nishil-3/LeetCode/tree/master/3541-report-spam-message) |
 | [3811-reverse-degree-of-a-string](https://github.com/nishil-3/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/nishil-3/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/nishil-3/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1217-relative-sort-array](https://github.com/nishil-3/LeetCode/tree/master/1217-relative-sort-array) |
 | [3541-report-spam-message](https://github.com/nishil-3/LeetCode/tree/master/3541-report-spam-message) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/nishil-3/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nishil-3/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nishil-3/LeetCode/tree/master/0229-majority-element-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/nishil-3/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
 |  |
 | ------- |
