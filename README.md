@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/nishil-3/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/nishil-3/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/nishil-3/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/nishil-3/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/nishil-3/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/nishil-3/LeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/nishil-3/LeetCode/tree/master/1039-find-the-town-judge) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nishil-3/LeetCode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/nishil-3/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/nishil-3/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/nishil-3/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nishil-3/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishil-3/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String Matching
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/nishil-3/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/nishil-3/LeetCode/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/nishil-3/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/nishil-3/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nishil-3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/nishil-3/LeetCode/tree/master/1217-relative-sort-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nishil-3/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
