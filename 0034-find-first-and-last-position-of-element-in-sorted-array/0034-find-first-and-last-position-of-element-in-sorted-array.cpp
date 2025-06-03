@@ -1,58 +1,59 @@
 class Solution {
 public:
-
-int firstt (vector<int>& nums,int n, int target)
+int lower (vector<int>& nums, int target, int n)
 {
-    int index= -1;
-    int low =0;
+    int low = 0;
     int high = n-1;
-    while (low<=high )
+    int ans = -1;
+    while(low<=high)
     {
-        int mid =(low+high)/2;
-        if (target ==nums[mid])
+        int mid = (low+high)/2;
+        if(nums[mid] == target )
         {
-            index= mid;
-            high = mid-1;
+            ans = mid;
+            high = mid -1;
         }
-        else if (target> nums[mid])
+        else if (target > nums[mid])
         {
-            low = mid+1;
+           low  =mid +1;
         }
-        else{
-            high = mid-1;
+        else {
+            high = mid -1;
         }
     }
-    return index ;
+    return ans ;
 }
 
-int secondd (vector<int>& nums,int n, int target)
+int upper (vector<int>& nums, int target, int n)
 {
-    int index= -1;
-    int low =0;
+    int low = 0;
     int high = n-1;
-    while (low<=high )
+    int ans = -1;
+    while(low<=high)
     {
-        int mid =(low+high)/2;
-        if (target ==nums[mid])
+        int mid = (low+high)/2;
+        if(nums[mid]== target )
         {
-            index= mid;
-         low= mid+1;
+            ans = mid;
+            low = mid +1;
         }
-        else if (target> nums[mid])
+        else if (nums[mid] < target)
         {
-            low = mid+1;
+            low = mid +1;
+
         }
         else{
-            high = mid-1;
+            high = mid -1;
         }
     }
-    return index ;
+    return ans ;
 }
     vector<int> searchRange(vector<int>& nums, int target) {
         int n =nums.size();
-
-        int first = firstt(nums,n,target);
-        int second = secondd(nums,n,target);
+        int first = lower(nums,target,n);
+        int second = upper(nums,target,n);
         return {first,second};
+
+        
     }
 };
