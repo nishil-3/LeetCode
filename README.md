@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/nishil-3/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nishil-3/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/nishil-3/LeetCode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/nishil-3/LeetCode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nishil-3/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/nishil-3/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/nishil-3/LeetCode/tree/master/0414-third-maximum-number) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nishil-3/LeetCode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/nishil-3/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/nishil-3/LeetCode/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/nishil-3/LeetCode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/nishil-3/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/nishil-3/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/nishil-3/LeetCode/tree/master/0367-valid-perfect-square) |
