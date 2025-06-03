@@ -9,29 +9,31 @@
 
 class Solution {
 public:
-    int guessNumber(int n) {
-        int low = 0;
-        int high = n;
-        while(low<=high)
+    int guessNumber(int n) { 
+        int left  =0;
+        int right = n;
+        while (left <= right)
         {
-           
-            long mid = low+(high-low)/2;
-            
-          int pick = guess(mid);
-          if(pick==0) {
-            return mid ;
-            break ;
-          }
-          if(pick == -1)
-          {
-            high= mid-1;
-          }
-          else if (pick==1)
-          {
-            low= mid+1;
-          }
+           long mid = left+(right-left)/2;
+            int number = guess(mid);
+            if ( number == 0)
+            {
+                return mid ;
+            }
+            else if (number == -1)
+            {
+                right = mid -1;
+            }
+            else if (number == 1)
+            {
+                left = mid +1 ;
+            }
+            {
 
+            }
         }
-        return -1 ;
+        return -21 ;
+        
+        
     }
 };
