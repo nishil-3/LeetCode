@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nishil-3/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nishil-3/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nishil-3/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/nishil-3/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishil-3/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nishil-3/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3541-report-spam-message](https://github.com/nishil-3/LeetCode/tree/master/3541-report-spam-message) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/nishil-3/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/nishil-3/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nishil-3/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/nishil-3/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishil-3/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String Matching
 |  |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/nishil-3/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nishil-3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/nishil-3/LeetCode/tree/master/0735-asteroid-collision) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/nishil-3/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishil-3/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3811-reverse-degree-of-a-string](https://github.com/nishil-3/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Dynamic Programming
