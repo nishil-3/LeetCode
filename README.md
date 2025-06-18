@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nishil-3/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nishil-3/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nishil-3/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/nishil-3/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nishil-3/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nishil-3/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nishil-3/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nishil-3/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/nishil-3/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nishil-3/LeetCode/tree/master/0735-asteroid-collision) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/nishil-3/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Merge Sort
 |  |
 | ------- |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/nishil-3/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/nishil-3/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/nishil-3/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/nishil-3/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Doubly-Linked List
 |  |
 | ------- |
