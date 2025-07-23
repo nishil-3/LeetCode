@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nishil-3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/nishil-3/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/nishil-3/LeetCode/tree/master/0812-rotate-string) |
+| [1250-longest-common-subsequence](https://github.com/nishil-3/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nishil-3/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3468-find-the-encrypted-string](https://github.com/nishil-3/LeetCode/tree/master/3468-find-the-encrypted-string) |
 | [3541-report-spam-message](https://github.com/nishil-3/LeetCode/tree/master/3541-report-spam-message) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/nishil-3/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/nishil-3/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nishil-3/LeetCode/tree/master/0518-coin-change-ii) |
+| [1250-longest-common-subsequence](https://github.com/nishil-3/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1299-k-concatenation-maximum-sum](https://github.com/nishil-3/LeetCode/tree/master/1299-k-concatenation-maximum-sum) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nishil-3/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Divide and Conquer
