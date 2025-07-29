@@ -2,46 +2,34 @@ class Solution {
 public:
     vector<int> smallestSubarrays(vector<int>& nums) {
         /*
-        minimum size ka subarray jiski bit ki value maximum ho, for example 
-        at index 2, 2 1 3 elements hai array mei 
-        || of 2 is 2 
+        minimum size ka subarray jiski bit ki value maximum ho, for example
+        at index 2, 2 1 3 elements hai array mei
+        || of 2 is 2
         or of 2 1 is 3
-        or of 2 1 3 is 3 
-        maximum elements is 3 and but minimum usbarray chaiye that is 2,1 so 2 
+        or of 2 1 3 is 3
+        maximum elements is 3 and but minimum usbarray chaiye that is 2,1 so 2
+        same as next greater elemenst bas yaha elements check ho rahe hai
         */
-        int n = nums.size();
-        vector<int> result(n);
-
-        // Step 2: Initialize latest array to track last seen position of each bit
-        vector<int> latest(32, -1);
-
-        // Step 3: Traverse the array from right to left
-        for (int i = n - 1; i >= 0; --i) 
+       int n = nums.size();
+       vector<int> ans(n);
+       vector<int> result(32,-1);
+       for(int i =n-1;i>=0;i--)
+       {
+        int farthest = i ;
+        for(int j =0;j<32;j++)
         {
-            int farthest = i; // Default: subarray ends at i
-
-            // Step 4: Update latest seen positions for bits set in nums[i]
-            for (int b = 0; b < 32; ++b) 
+            if ((nums[i] >> j)&1)
             {
-                if ((nums[i] >> b) & 1) 
-                {
-                    latest[b] = i;
-                }
-
-                // Step 5: For each bit, if seen, update farthest position needed
-                if (latest[b] != -1) 
-                {
-                    farthest = max(farthest, latest[b]);
-                }
+                result[j] = i; 
             }
-
-            // Step 6: Store the length of smallest subarray starting at i
-            result[i] = farthest - i + 1;
+            if (result[j]!=-1)
+            {
+                farthest = max(farthest, result[j]);
+            }
         }
+        ans[i] = farthest - i + 1;
 
-        // Step 7: Return the result array
-        return result;
-
-        
+       }
+       return ans ;
     }
 };
