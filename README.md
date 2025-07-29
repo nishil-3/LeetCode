@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/nishil-3/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nishil-3/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishil-3/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishil-3/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nishil-3/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3541-report-spam-message](https://github.com/nishil-3/LeetCode/tree/master/3541-report-spam-message) |
 ## Binary Search
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/nishil-3/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nishil-3/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nishil-3/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishil-3/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## String
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nishil-3/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nishil-3/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nishil-3/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishil-3/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nishil-3/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Prefix Sum
 |  |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/nishil-3/LeetCode/tree/master/0342-power-of-four) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/nishil-3/LeetCode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1610-xor-operation-in-an-array](https://github.com/nishil-3/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishil-3/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Math
 |  |
 | ------- |
