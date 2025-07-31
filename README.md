@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/nishil-3/LeetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/nishil-3/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/nishil-3/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/nishil-3/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/nishil-3/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/nishil-3/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/nishil-3/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nishil-3/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nishil-3/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/nishil-3/LeetCode/tree/master/0342-power-of-four) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/nishil-3/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/nishil-3/LeetCode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1610-xor-operation-in-an-array](https://github.com/nishil-3/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishil-3/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/nishil-3/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/nishil-3/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nishil-3/LeetCode/tree/master/0518-coin-change-ii) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/nishil-3/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1105-uncrossed-lines](https://github.com/nishil-3/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1170-shortest-common-supersequence](https://github.com/nishil-3/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/nishil-3/LeetCode/tree/master/1250-longest-common-subsequence) |
