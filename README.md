@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/nishil-3/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nishil-3/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/nishil-3/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/nishil-3/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nishil-3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/nishil-3/LeetCode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Breadth-First Search
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nishil-3/LeetCode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/nishil-3/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/nishil-3/LeetCode/tree/master/0733-flood-fill) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/nishil-3/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nishil-3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/nishil-3/LeetCode/tree/master/1036-rotting-oranges) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/nishil-3/LeetCode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/nishil-3/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nishil-3/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/nishil-3/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/nishil-3/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nishil-3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/nishil-3/LeetCode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Depth-First Search
