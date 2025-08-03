@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/nishil-3/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nishil-3/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nishil-3/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nishil-3/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nishil-3/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishil-3/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishil-3/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/nishil-3/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nishil-3/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nishil-3/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nishil-3/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishil-3/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## String
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nishil-3/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nishil-3/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nishil-3/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nishil-3/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishil-3/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nishil-3/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Prefix Sum
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/nishil-3/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/nishil-3/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nishil-3/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nishil-3/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Bit Manipulation
 |  |
 | ------- |
