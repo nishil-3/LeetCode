@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/nishil-3/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nishil-3/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3541-report-spam-message](https://github.com/nishil-3/LeetCode/tree/master/3541-report-spam-message) |
+| [3790-fruits-into-baskets-ii](https://github.com/nishil-3/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/nishil-3/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nishil-3/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishil-3/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/nishil-3/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/nishil-3/LeetCode/tree/master/0735-asteroid-collision) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nishil-3/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishil-3/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3790-fruits-into-baskets-ii](https://github.com/nishil-3/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/nishil-3/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -668,8 +671,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/nishil-3/LeetCode/tree/master/0456-132-pattern) |
+| [3790-fruits-into-baskets-ii](https://github.com/nishil-3/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Brainteaser
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nishil-3/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/nishil-3/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
