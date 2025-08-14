@@ -11,25 +11,16 @@
  */
 class Solution {
 public:
+void solve(TreeNode* root, int& cnt)
+{
+    if (root == nullptr) return ;
+    solve(root-> left,cnt);
+    solve(root->right,cnt);
+    cnt++;
+}
     int countNodes(TreeNode* root) {
-        if (root == nullptr) return 0;
         int cnt =0;
-        queue <TreeNode*> q;
-        q.push(root);
-        while (!q.empty ())
-        {
-            TreeNode* node = q.front ();
-            q.pop();
-            if (node-> left != nullptr)
-            {
-                q.push(node-> left);
-            }
-            if (node-> right != nullptr)
-            {
-                q.push (node-> right );
-            }
-            cnt++;
-        }
+         solve (root,cnt);
         return cnt ;
         
     }
