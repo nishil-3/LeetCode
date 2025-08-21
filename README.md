@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishil-3/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nishil-3/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2689-rearranging-fruits](https://github.com/nishil-3/LeetCode/tree/master/2689-rearranging-fruits) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/nishil-3/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nishil-3/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3541-report-spam-message](https://github.com/nishil-3/LeetCode/tree/master/3541-report-spam-message) |
 | [3790-fruits-into-baskets-ii](https://github.com/nishil-3/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nishil-3/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nishil-3/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishil-3/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/nishil-3/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String Matching
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/nishil-3/LeetCode/tree/master/1217-relative-sort-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nishil-3/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2689-rearranging-fruits](https://github.com/nishil-3/LeetCode/tree/master/2689-rearranging-fruits) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/nishil-3/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3541-report-spam-message](https://github.com/nishil-3/LeetCode/tree/master/3541-report-spam-message) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nishil-3/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
